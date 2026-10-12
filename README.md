@@ -1,34 +1,63 @@
-# Cloud & DevOps Engineering
+# Cloud & DevOps Engineering Portfolio
 
-Welcome to my Cloud & DevOps engineering repository.
+Welcome to my Cloud & DevOps engineering portfolio.
 
-I'm a BCA graduate currently developing my practical skills in cloud computing, Linux administration, web server deployment, and DevOps technologies.
+I'm a BCA graduate currently pursuing Cloud & DevOps training at IPSR Solutions Limited. I'm building hands-on experience in Linux system administration, AWS cloud infrastructure, web server configuration, and automation.
 
-## Technical Areas
+## Technical Skills
 
-* **Linux Administration:** RHEL, system administration, and troubleshooting
-* **Web Servers:** Nginx, Apache, and virtual hosting
-* **Cloud Computing:** AWS infrastructure and services
-* **Automation:** Ansible and configuration management
+* **Operating Systems:** Linux, Red Hat Enterprise Linux (RHEL)
+* **Cloud Computing:** Amazon Web Services (AWS)
+* **Web Servers:** Nginx, Apache HTTP Server
+* **Automation & Configuration Management:** Ansible
+* **Web Technologies:** HTML, CSS, PHP
+* **Infrastructure & Administration:** Virtual hosting, DNS basics, Linux troubleshooting, SELinux
 
-## Practical Work
+## Practical Work & Documentation
 
-### Nginx Web Server Setup
+### 1. Nginx Web Server Setup
 
-Installation and configuration of Nginx on a RHEL server, including web page hosting and local hostname testing.
+Installed and configured Nginx on a RHEL server, hosted a web page, and tested access using a local hostname.
 
-### Custom Nginx Error Page
+### 2. Custom Nginx Error Page
 
-Configuration and testing of a custom 404 error page for Nginx.
+Configured a custom HTTP 404 error page and tested the server response.
+
+### 3. Linux Boot Process & Port Troubleshooting
+
+Documented the Linux boot process, systemd targets, network port numbers, and useful administration and troubleshooting commands.
+
+### 4. Apache Virtual Hosting
+
+Configured Apache virtual hosting on RHEL to serve a website using a custom hostname.
+
+### 5. Apache Multiple Websites
+
+Configured multiple websites on a single Apache server using separate document roots and virtual host configurations.
+
+### 6. PHP Website Hosting in a User Home Directory
+
+Practised hosting a PHP website from a user's home directory using Apache, virtual host configuration, permissions, and SELinux settings.
 
 ## Documentation
 
-Detailed implementation steps and screenshots are available in the PDF files in this repository.
+The repository contains PDF documentation describing the practical tasks, configuration steps, and testing performed.
 
-## Learning Journey
+Browse the PDF files in this repository for implementation details.
 
-Currently pursuing Cloud & DevOps training and building hands-on experience with infrastructure, deployment, and automation.
+## Current Learning Focus
+
+* Linux system administration and troubleshooting
+* AWS cloud services and infrastructure
+* Ansible automation
+* Web server deployment and configuration
+* Cloud & DevOps tools and workflows
+
+## Connect
+
+* **GitHub:** [zenhal-ap](https://github.com/zenhal-ap)
+* **LinkedIn:** [A P Zenhal](https://linkedin.com/in/a-p-zenhal)
 
 ---
 
-**GitHub:** [zenhal-ap](https://github.com/zenhal-ap)
+*Continuously learning, practising, and building my Cloud & DevOps skills.*
