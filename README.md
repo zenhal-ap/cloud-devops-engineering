@@ -2,61 +2,65 @@
 
 Welcome to my Cloud & DevOps engineering portfolio.
 
-I'm a BCA graduate currently pursuing Cloud & DevOps training at IPSR Solutions Limited. I'm building hands-on experience in Linux system administration, AWS cloud infrastructure, web server configuration, and automation.
+I'm a BCA graduate building hands-on skills in Linux system administration, AWS cloud infrastructure, web server configuration, and automation through practical training and projects.
 
 ## Technical Skills
 
-* **Operating Systems:** Linux, Red Hat Enterprise Linux (RHEL)
-* **Cloud Computing:** Amazon Web Services (AWS)
-* **Web Servers:** Nginx, Apache HTTP Server
-* **Automation & Configuration Management:** Ansible
-* **Web Technologies:** HTML, CSS, PHP
-* **Infrastructure & Administration:** Virtual hosting, DNS basics, Linux troubleshooting, SELinux
+- **Operating Systems:** Linux, Red Hat Enterprise Linux (RHEL)
+- **Cloud Computing:** AWS EC2, VPC, IAM, S3, EBS, EFS, RDS, Lambda, SNS
+- **Web Servers:** Nginx, Apache HTTP Server
+- **Automation & Configuration Management:** Ansible
+- **Databases:** MariaDB, MySQL
+- **Web Technologies:** HTML, CSS, PHP
+- **Networking:** DNS, Virtual Hosting, Security Groups, Public and Private Subnets
+- **System Administration:** Linux troubleshooting, SELinux, permissions, server monitoring
 
 ## Practical Work & Documentation
 
-### 1. Nginx Web Server Setup
+### Linux & Web Server Administration
+- Nginx Web Server Setup
+- Custom Nginx Error Page
+- Linux Boot Process & Port Troubleshooting
+- Apache Virtual Hosting
+- Apache Multiple Websites
+- PHP Website Hosting in a User Home Directory
+- Apache, PHP and MariaDB Dynamic Website Hosting
+- Website Hosting Errors and HTTP Status Codes
+- SFTP and VSFTPD File Transfer
 
-Installed and configured Nginx on a RHEL server, hosted a web page, and tested access using a local hostname.
-
-### 2. Custom Nginx Error Page
-
-Configured a custom HTTP 404 error page and tested the server response.
-
-### 3. Linux Boot Process & Port Troubleshooting
-
-Documented the Linux boot process, systemd targets, network port numbers, and useful administration and troubleshooting commands.
-
-### 4. Apache Virtual Hosting
-
-Configured Apache virtual hosting on RHEL to serve a website using a custom hostname.
-
-### 5. Apache Multiple Websites
-
-Configured multiple websites on a single Apache server using separate document roots and virtual host configurations.
-
-### 6. PHP Website Hosting in a User Home Directory
-
-Practised hosting a PHP website from a user's home directory using Apache, virtual host configuration, permissions, and SELinux settings.
+### AWS Cloud Projects
+- EC2 Start/Stop Automation Using Lambda and EventBridge
+- IAM User with Restricted EC2 Access
+- EBS and EFS Storage Configuration
+- WordPress Hosting on EC2 with Local MariaDB and Amazon RDS
+- Public Web Server and Private Database Server Architecture
+- MariaDB Database Backup to Amazon S3
+- S3 Static Website Hosting
+- Server Monitoring Using Nagios and Zabbix
+- Disk Usage Monitoring with AWS SNS Email Notifications
+- Amazon SES SMTP Integration with PHP and PHPMailer
+- Web and System Performance Tuning
+- Basics of Web Hosting and DNS
 
 ## Documentation
 
-The repository contains PDF documentation describing the practical tasks, configuration steps, and testing performed.
+This repository contains PDF documentation of practical tasks, configuration steps, commands, and verification procedures.
 
-Browse the PDF files in this repository for implementation details.
+Browse the repository files to explore the individual tasks and their implementation details.
 
 ## Current Learning Focus
 
-* Linux system administration and troubleshooting
-* AWS cloud services and infrastructure
-* Ansible automation
-* Web server deployment and configuration
-* Cloud & DevOps tools and workflows
+- Linux system administration and troubleshooting
+- AWS cloud services and infrastructure
+- Red Hat system administration and RHCSA preparation
+- Ansible automation
+- Azure fundamentals
+- Cloud & DevOps tools and workflows
 
 ## Connect
 
-* **GitHub:** [zenhal-ap](https://github.com/zenhal-ap)
-* **LinkedIn:** [A P Zenhal](https://linkedin.com/in/a-p-zenhal)
+- **GitHub:** [zenhal-ap](https://github.com/zenhal-ap)
+- **LinkedIn:** [A P Zenhal](https://linkedin.com/in/a-p-zenhal)
 
 ---
 
